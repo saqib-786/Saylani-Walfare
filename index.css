@@ -1,0 +1,81 @@
+@media screen and (max-width:1200px){
+    #header{
+        width: 1020px;
+        background-color: wheat;
+        font-size: 12px;
+        flex-wrap: wrap;
+       
+}
+@media screen and (max-width:1020px){
+    #header{
+        width: 800px;
+        background-color: wheat;
+        font-size: 12px;
+        flex-wrap: wrap;
+}
+@media screen and (max-width:720px){
+    #header{
+        width: 480px;
+        background-color: wheat;
+        font-size: 12px;
+        flex-wrap: wrap;
+        height: 100px;
+}
+@media screen and (max-width:480px){
+    #header{
+        width: 200px;
+        background-color: wheat;
+        font-size: 12px;
+        flex-wrap: wrap;
+}
+@media screen and (max-width: width 1200px;){
+    .header2{
+width: 1020px;
+flex-wrap: wrap;
+    }
+}
+    
+}
+@media screen and (max-width: width 1020px;){
+    .header2{
+width: 800px;
+flex-wrap: wrap;
+    }
+    @media screen and (max-width: width 720px;){
+        .header2{
+    width: 480pxpx;
+    flex-wrap: wrap;
+        }
+        @media screen and (max-width: width 480px;){
+            .header2{
+        width: 200px;
+        flex-wrap: wrap;
+            }
+            @media screen and (max-width:1200px){
+                .cover{
+                    width: 1020px;
+                }
+            }
+            @media screen and (max-width:1020px){
+                .cover{
+                    width: 840px;
+                }
+            }
+            @media screen and (max-width:720px){
+                .cover{
+                    width: 480px;
+                }
+            }
+            @media screen and (max-width:480px){
+                .cover{
+                    width: 200px;
+                }
+            }
+@media only screen and (max-width:720px){
+.header2, nav{
+    
+height: 230px;
+flex-direction: column;
+text-align: center;
+}
+}
